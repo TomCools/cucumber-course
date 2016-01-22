@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         glue = "be.tomcools.bvis.steps",
         features="src/test/resources"
 )
-public class RunAllTests {
+public class CucumberTest {
 }
